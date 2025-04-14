@@ -2,7 +2,7 @@
 
 A simple note-taking application built with Flutter using Hive as a local database. This app allows users to manage notes easily and quickly, with data stored locally on the device.
 
-https://github.com/user-attachments/assets/94881dc6-1dcc-4f15-a696-36813701da76
+https://github.com/user-attachments/assets/a5c54dac-e57b-4565-99de-5628f180fb9b
 
 ## 🌟 Features
 
@@ -26,27 +26,27 @@ This application follows Clean Architecture principles with an organized folder 
 ```
 my_hive_app/
 ├── lib/
-│   ├── main.dart                   # Application entry point
-│   ├── app.dart                    # Root widget of the application
-│   ├── config/                     # Application configuration
-│   │   ├── routes.dart             # Route definitions
-│   │   └── themes.dart             # Application themes
-│   ├── core/                       # Core functions and utilities
-│   │   └── constants/              # Application constants
-│   │       └── hive_constants.dart # Hive constants (box names, etc.)
-│   ├── data/                       # Data layer
-│   │   ├── models/                 # Data models
-│   │   │   └── note_model.dart     # Note model
-│   │   └── repositories/           # Repositories
-│   │       └── note_repository.dart # Note repository
-│   └── presentation/               # UI layer
-│       ├── screens/                # Main screens
-│       │   ├── home_screen.dart    # Home screen
-│       │   ├── note_add_screen.dart # Add note screen
-│       │   └── note_detail_screen.dart # Note detail screen
-│       └── widgets/                # Reusable widgets
-│           ├── note_card.dart      # Widget for displaying notes
-│           └── note_form.dart      # Form for adding/editing notes
+│   ├── main.dart                   
+│   ├── app.dart                   
+│   ├── config/                    
+│   │   ├── routes.dart            
+│   │   └── themes.dart             
+│   ├── core/                  
+│   │   └── constants/          
+│   │       └── hive_constants.dart
+│   ├── data/                  
+│   │   ├── models/              
+│   │   │   └── note_model.dart  
+│   │   └── repositories/        
+│   │       └── note_repository.dart
+│   └── presentation/              
+│       ├── screens/           
+│       │   ├── home_screen.dart  
+│       │   ├── note_add_screen.dart 
+│       │   └── note_detail_screen.dart 
+│       └── widgets/          
+│           ├── note_card.dart    
+│           └── note_form.dart 
 ```
 
 ## 🚀 Getting Started
