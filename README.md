@@ -124,6 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Flutter Team - https://flutter.dev/
 
 ## Developer
-Name: M Naufal Badruttamam
-NRP: 5025211240
-Class: Mobile Programming (B) / PPB (B)
+
+- **Nama:** M Naufal Badruttamam
+- **NRP:** 5025211240
+- **Kelas:** Pemrograman Perangkat Bergerak B
