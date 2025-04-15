@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
         theme: AppTheme.lightTheme,
         darkTheme: AppTheme.darkTheme,
         themeMode: ThemeMode.system,
-        // Gunakan initialRoute daripada home
         initialRoute: AppRoutes.home,
         routes: AppRoutes.routes,
       ),
